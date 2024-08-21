@@ -1,0 +1,113 @@
+|-- .eslintrc.cjs
+|-- .eslintrc.json
+|-- .gitignore
+|-- README.md
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- vite.svg
+|-- src
+    |-- .App.jsx.swp
+    |-- App.jsx
+    |-- assets
+        |-- react.svg
+    |-- data
+        |-- Uploader.jsx
+        |-- cabins
+            |-- cabin-001.jpg
+            |-- cabin-002.jpg
+            |-- cabin-003.jpg
+            |-- cabin-004.jpg
+            |-- cabin-005.jpg
+            |-- cabin-006.jpg
+            |-- cabin-007.jpg
+            |-- cabin-008.jpg
+        |-- data-bookings.js
+        |-- data-cabins.js
+        |-- data-guests.js
+        |-- img
+            |-- default-user.jpg
+            |-- logo-dark.png
+            |-- logo-light.png
+    |-- features
+        |-- authentication
+            |-- LoginForm.jsx
+            |-- SignupForm.jsx
+            |-- UpdatePasswordForm.jsx
+            |-- UpdateUserDataForm.jsx
+            |-- UserAvatar.jsx
+        |-- bookings
+            |-- BookingDataBox.jsx
+            |-- BookingDetail.jsx
+            |-- BookingRow.jsx
+            |-- BookingTable.jsx
+            |-- BookingTableOperations.jsx
+        |-- cabins
+            |-- CabinRow.jsx
+            |-- CabinTable.jsx
+            |-- CreateCabinForm.jsx
+        |-- check-in-out
+            |-- CheckinBooking.jsx
+            |-- CheckoutButton.jsx
+            |-- TodayActivity.jsx
+            |-- TodayItem.jsx
+        |-- dashboard
+            |-- DashboardBox.jsx
+            |-- DashboardFilter.jsx
+            |-- DashboardLayout.jsx
+            |-- DurationChart.jsx
+            |-- SalesChart.jsx
+            |-- Stat.jsx
+        |-- settings
+            |-- UpdateSettingsForm.jsx
+    |-- hooks
+        |-- useLocalStorageState.js
+        |-- useMoveBack.js
+    |-- main.jsx
+    |-- pages
+        |-- Account.jsx
+        |-- Bookings.jsx
+        |-- Cabins.jsx
+        |-- Dashboard.jsx
+        |-- Login.jsx
+        |-- PageNotFound.jsx
+        |-- Settings.jsx
+        |-- Users.jsx
+    |-- services
+        |-- apiBookings.js
+        |-- apiSettings.js
+    |-- styles
+        |-- GlobalStyles.js
+    |-- ui
+        |-- Button.jsx
+        |-- ButtonGroup.jsx
+        |-- ButtonIcon.jsx
+        |-- ButtonText.jsx
+        |-- Checkbox.jsx
+        |-- ConfirmDelete.jsx
+        |-- DataItem.jsx
+        |-- Empty.jsx
+        |-- ErrorFallback.jsx
+        |-- FileInput.jsx
+        |-- Filter.jsx
+        |-- Flag.jsx
+        |-- Form.jsx
+        |-- Heading.jsx
+        |-- Input.jsx
+        |-- Logo.jsx
+        |-- MainNav.jsx
+        |-- Menus.jsx
+        |-- Modal.jsx
+        |-- Pagination.jsx
+        |-- Row.jsx
+        |-- Select.jsx
+        |-- Spinner.jsx
+        |-- SpinnerMini.jsx
+        |-- Table.jsx
+        |-- TableOperations.jsx
+        |-- Tag.jsx
+        |-- Textarea.jsx
+    |-- utils
+        |-- helpers.js
+|-- vite.config.js
