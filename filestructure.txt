@@ -6,9 +6,11 @@
 |-- package-lock.json
 |-- package.json
 |-- public
+    |-- default-user.jpg
+    |-- logo-dark.png
+    |-- logo-light.png
     |-- vite.svg
 |-- src
-    |-- .App.jsx.swp
     |-- App.jsx
     |-- assets
         |-- react.svg
@@ -26,10 +28,6 @@
         |-- data-bookings.js
         |-- data-cabins.js
         |-- data-guests.js
-        |-- img
-            |-- default-user.jpg
-            |-- logo-dark.png
-            |-- logo-light.png
     |-- features
         |-- authentication
             |-- LoginForm.jsx
@@ -76,10 +74,13 @@
         |-- Users.jsx
     |-- services
         |-- apiBookings.js
+        |-- apiCabins.js
         |-- apiSettings.js
+        |-- supabase.js
     |-- styles
         |-- GlobalStyles.js
     |-- ui
+        |-- AppLayout.jsx
         |-- Button.jsx
         |-- ButtonGroup.jsx
         |-- ButtonIcon.jsx
@@ -93,6 +94,7 @@
         |-- Filter.jsx
         |-- Flag.jsx
         |-- Form.jsx
+        |-- Header.jsx
         |-- Heading.jsx
         |-- Input.jsx
         |-- Logo.jsx
@@ -102,6 +104,7 @@
         |-- Pagination.jsx
         |-- Row.jsx
         |-- Select.jsx
+        |-- Sidebar.jsx
         |-- Spinner.jsx
         |-- SpinnerMini.jsx
         |-- Table.jsx
