@@ -43,10 +43,14 @@
             |-- BookingTableOperations.jsx
         |-- cabins
             |-- CabinRow.jsx
+            |-- CabinTable-v1.jsx
             |-- CabinTable.jsx
             |-- CreateCabinForm-v1.jsx
             |-- CreateCabinForm.jsx
+            |-- useCabins.js
+            |-- useCreateCabin.js
             |-- useDeleteCabin.js
+            |-- useEditCabin.js
         |-- check-in-out
             |-- CheckinBooking.jsx
             |-- CheckoutButton.jsx
