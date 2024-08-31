@@ -46,6 +46,7 @@
             |-- CabinTable.jsx
             |-- CreateCabinForm-v1.jsx
             |-- CreateCabinForm.jsx
+            |-- useDeleteCabin.js
         |-- check-in-out
             |-- CheckinBooking.jsx
             |-- CheckoutButton.jsx
