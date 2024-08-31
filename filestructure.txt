@@ -44,6 +44,7 @@
         |-- cabins
             |-- CabinRow.jsx
             |-- CabinTable.jsx
+            |-- CreateCabinForm-v1.jsx
             |-- CreateCabinForm.jsx
         |-- check-in-out
             |-- CheckinBooking.jsx
@@ -94,6 +95,7 @@
         |-- Filter.jsx
         |-- Flag.jsx
         |-- Form.jsx
+        |-- FormRow.jsx
         |-- Header.jsx
         |-- Heading.jsx
         |-- Input.jsx
