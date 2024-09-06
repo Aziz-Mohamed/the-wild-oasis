@@ -43,6 +43,7 @@
             |-- BookingTableOperations.jsx
         |-- cabins
             |-- AddCabin.jsx
+            |-- CabinRow-v1.jsx
             |-- CabinRow.jsx
             |-- CabinTable-v1.jsx
             |-- CabinTable-v2.jsx
