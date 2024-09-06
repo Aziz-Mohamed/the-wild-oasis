@@ -42,8 +42,10 @@
             |-- BookingTable.jsx
             |-- BookingTableOperations.jsx
         |-- cabins
+            |-- AddCabin.jsx
             |-- CabinRow.jsx
             |-- CabinTable-v1.jsx
+            |-- CabinTable-v2.jsx
             |-- CabinTable.jsx
             |-- CreateCabinForm-v1.jsx
             |-- CreateCabinForm.jsx
@@ -65,9 +67,12 @@
             |-- Stat.jsx
         |-- settings
             |-- UpdateSettingsForm.jsx
+            |-- useSettings.js
+            |-- useUpdateSetting.js
     |-- hooks
         |-- useLocalStorageState.js
         |-- useMoveBack.js
+        |-- useOutsideClick.js
     |-- main.jsx
     |-- pages
         |-- Account.jsx
@@ -107,6 +112,7 @@
         |-- Logo.jsx
         |-- MainNav.jsx
         |-- Menus.jsx
+        |-- Modal-v1.jsx
         |-- Modal.jsx
         |-- Pagination.jsx
         |-- Row.jsx
