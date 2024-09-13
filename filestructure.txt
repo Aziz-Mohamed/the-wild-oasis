@@ -48,6 +48,7 @@
             |-- CabinTable-v1.jsx
             |-- CabinTable-v2.jsx
             |-- CabinTable.jsx
+            |-- CabinTableOperation.jsx
             |-- CreateCabinForm-v1.jsx
             |-- CreateCabinForm.jsx
             |-- useCabins.js
@@ -119,6 +120,7 @@
         |-- Row.jsx
         |-- Select.jsx
         |-- Sidebar.jsx
+        |-- SortBy.jsx
         |-- Spinner.jsx
         |-- SpinnerMini.jsx
         |-- Table.jsx
