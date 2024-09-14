@@ -41,6 +41,7 @@
             |-- BookingRow.jsx
             |-- BookingTable.jsx
             |-- BookingTableOperations.jsx
+            |-- useBookings.js
         |-- cabins
             |-- AddCabin.jsx
             |-- CabinRow-v1.jsx
