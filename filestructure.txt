@@ -62,6 +62,7 @@
             |-- CheckoutButton.jsx
             |-- TodayActivity.jsx
             |-- TodayItem.jsx
+            |-- useCheckin.js
         |-- dashboard
             |-- DashboardBox.jsx
             |-- DashboardFilter.jsx
@@ -83,6 +84,7 @@
         |-- Booking.jsx
         |-- Bookings.jsx
         |-- Cabins.jsx
+        |-- Checkin.jsx
         |-- Dashboard.jsx
         |-- Login.jsx
         |-- PageNotFound.jsx
