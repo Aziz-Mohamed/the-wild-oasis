@@ -41,6 +41,7 @@
             |-- BookingRow.jsx
             |-- BookingTable.jsx
             |-- BookingTableOperations.jsx
+            |-- useBooking.js
             |-- useBookings.js
         |-- cabins
             |-- AddCabin.jsx
@@ -79,6 +80,7 @@
     |-- main.jsx
     |-- pages
         |-- Account.jsx
+        |-- Booking.jsx
         |-- Bookings.jsx
         |-- Cabins.jsx
         |-- Dashboard.jsx
