@@ -63,6 +63,7 @@
             |-- TodayActivity.jsx
             |-- TodayItem.jsx
             |-- useCheckin.js
+            |-- useCheckout.js
         |-- dashboard
             |-- DashboardBox.jsx
             |-- DashboardFilter.jsx
