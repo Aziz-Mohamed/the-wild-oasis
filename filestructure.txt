@@ -35,6 +35,8 @@
             |-- UpdatePasswordForm.jsx
             |-- UpdateUserDataForm.jsx
             |-- UserAvatar.jsx
+            |-- useLogin.js
+            |-- useUser.js
         |-- bookings
             |-- BookingDataBox.jsx
             |-- BookingDetail.jsx
@@ -93,6 +95,7 @@
         |-- Settings.jsx
         |-- Users.jsx
     |-- services
+        |-- apiAuth.js
         |-- apiBookings.js
         |-- apiCabins.js
         |-- apiSettings.js
@@ -115,6 +118,7 @@
         |-- Flag.jsx
         |-- Form.jsx
         |-- FormRow.jsx
+        |-- FormRowVertical.jsx
         |-- Header.jsx
         |-- Heading.jsx
         |-- Input.jsx
@@ -124,6 +128,7 @@
         |-- Modal-v1.jsx
         |-- Modal.jsx
         |-- Pagination.jsx
+        |-- ProtectedRoute.jsx
         |-- Row.jsx
         |-- Select.jsx
         |-- Sidebar.jsx
