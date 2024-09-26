@@ -31,11 +31,13 @@
     |-- features
         |-- authentication
             |-- LoginForm.jsx
+            |-- Logout.jsx
             |-- SignupForm.jsx
             |-- UpdatePasswordForm.jsx
             |-- UpdateUserDataForm.jsx
             |-- UserAvatar.jsx
             |-- useLogin.js
+            |-- useLogout.js
             |-- useUser.js
         |-- bookings
             |-- BookingDataBox.jsx
